@@ -27,7 +27,7 @@ document.getElementById('btn').addEventListener('click', function(){
         document.querySelector("title").innerHTML = "Your Information";
 
     }else{
-        alert('হেএএএএএএএএএএইইইইইইইই সবকিছু ঠিকঠাক দিয়া দে')
+        alert('Please Input Your Information')
     }
  
 })
